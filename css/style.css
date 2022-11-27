@@ -1,0 +1,32 @@
+body {
+  background-color: #f1d3b3;
+}
+.main {
+  margin: 40px 0px;
+  padding: 20px 40px;
+  background-color: #fefcf3;
+  text-align: center;
+  border-radius: 10px;
+  color: #8b7e74;
+}
+ul {
+  list-style: none;
+}
+li {
+  display: inline-block;
+  padding: 10px;
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+  color: #f1d3b3;
+}
+a:hover {
+  color: #8b7e74;
+}
+img {
+  border-radius: 10px;
+}
+h1 {
+  margin-bottom: 20px;
+}
